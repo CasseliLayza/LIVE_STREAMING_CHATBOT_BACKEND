@@ -1,3 +1,5 @@
+![logo](src/main/resources/asset/img/bot.png)
+
 # 🤖 Backend
 
 ## 📜 Descripción
