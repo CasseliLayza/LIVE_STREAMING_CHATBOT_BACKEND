@@ -1,7 +1,7 @@
 # 🤖 Backend
 
 ## 📜 Descripción
-Este es un 🖥️ backend para gestionar funcionalidades de un 🤖. Utiliza 🪵 Spring Boot y 🎙️ MaryTTS para 🔊 texto a voz. Implementa 📩 colas y 🎭 hilos para procesar las solicitudes de 🗣️ en orden secuencial.
+Este es un 🖥️ backend para gestionar funcionalidades de un 🤖 en un 🎥 *streaming en vivo*. Captura 📝 *comentarios* y los locuta utilizando los 🗣️ *recursos de voz de Microsoft*. Utiliza 🪵 Spring Boot y 🎙️ MaryTTS para 🔊 texto a voz. Implementa 📩 colas y 🎭 hilos para procesar las solicitudes de 🗣️ en orden secuencial.
 
 ## 📂 Estructura del Proyecto
 
@@ -44,7 +44,7 @@ El 📂 `src` contiene el 💾 fuente organizado en:
 
 1. 📥 el 📜:
    ```sh
-   git clone https://github.com/CasseliLayza/LIVE_STREAMING_CHATBOT_BACKEND
+   git clone git@github.com:CasseliLayza/LIVE_STREAMING_CHATBOT_BACKEND.git
    ```
 2. 📂 al 📜:
    ```sh
