@@ -72,3 +72,4 @@ Los 🔍 se generan en el 📂 `/log`, incluyendo `server.log`.
 ## ✍️ Autor
 🏗️ por Casse
 
+![logo](src/main/resources/asset/img/bot2.png)
